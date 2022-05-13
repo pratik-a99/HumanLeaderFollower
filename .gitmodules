@@ -4,3 +4,6 @@
 [submodule "darknet_ros"]
 	path = darknet_ros
 	url = https://github.com/leggedrobotics/darknet_ros.git
+[submodule "gazebo_ros_link_attacher"]
+	path = gazebo_ros_link_attacher
+	url = https://github.com/mehditlili/gazebo_ros_link_attacher
