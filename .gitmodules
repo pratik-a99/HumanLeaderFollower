@@ -10,3 +10,6 @@
 [submodule "grobot"]
 	path = grobot
 	url = https://github.com/nlamprian/grobot
+[submodule "apriltag_ros"]
+	path = apriltag_ros
+	url = https://github.com/pratik-a99/apriltag_ros.git
