@@ -7,3 +7,6 @@
 [submodule "gazebo_ros_link_attacher"]
 	path = gazebo_ros_link_attacher
 	url = https://github.com/mehditlili/gazebo_ros_link_attacher
+[submodule "grobot"]
+	path = grobot
+	url = https://github.com/nlamprian/grobot
