@@ -1,4 +1,4 @@
-# HumanLeaderFollower
+# HumanLeaderFollower Group : OMADA
 
 This repository contains a ROS package that can track and follow a human subject using April Tags to identify the leader.
 
@@ -40,6 +40,14 @@ To launch the Human follower, use the following command:
 ```
 roslaunch my_detector validator_follower.launch
 ```
+## Output Screen Captures
+1. Gazebo Simulation:
+
+<img width="1435" alt="image" src="https://user-images.githubusercontent.com/24978535/168404650-67d447c5-72d8-4c0e-b480-f63f7c03e5d0.png">
+
+2. Hardware Implementation:
+
+<img width="1435" alt="image" src="https://user-images.githubusercontent.com/24978535/168404692-2599a3e1-9f14-4180-8704-8c6705753328.png">
 
 ## Demo Videos
 [Gazebo Simulation of Human Leader Follower](https://youtu.be/0TFuDLcJlU0) \
@@ -47,4 +55,7 @@ roslaunch my_detector validator_follower.launch
 [Real world demo of AprilTag Follower](https://www.youtube.com/watch?v=5_TJFhDXLic) \
 [Real world demo of Human Leader Follower](https://www.youtube.com/watch?v=-fM43jx2K2w) 
 
-  
+## Contributors and Team mates
+1. Pratik Acharya, UID: 117513615
+2. Sumedh Koppula, UID: 117386066
+3. Smith Orlandis, UID: 118493077
